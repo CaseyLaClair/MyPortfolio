@@ -383,6 +383,11 @@ a {
 
 #profile {
     border-radius: 50% 50% 50% 50%;
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
+    margin-bottom: 5%;
+}
+
+#navbarResponsive {
+    font-size: 1em;
 }

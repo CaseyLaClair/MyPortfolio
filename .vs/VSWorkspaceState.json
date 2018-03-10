@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\css",
+    "\\font-awesome\\css",
     "\\img",
     "\\magnific-popup"
   ],
-  "SelectedNode": "\\css\\custom.min.css",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
