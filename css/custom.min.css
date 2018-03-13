@@ -381,6 +381,11 @@ a {
         border-color: #1a252f
     }
 
+.title-text {
+    padding-bottom: 3%;
+    font-size: 2em;
+}
+
 #profile {
     border-radius: 50% 50% 50% 50%;
     width: 30%;
