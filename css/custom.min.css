@@ -13,19 +13,12 @@ hr.star-dark, hr.star-light {
     text-align: center;
     border: none;
     border-top: solid .25rem;
+    margin: 0 auto;
     margin-top: 2.5rem;
     margin-bottom: 2.5rem
 }
 
-    hr.star-dark:after, hr.star-light:after {
-        position: relative;
-        top: -.8em;
-        display: inline-block;
-        padding: 0 .25em;
-        content: '\f005';
-        font-family: FontAwesome;
-        font-size: 2em
-    }
+  
 
 hr.star-light {
     border-color: #fff
