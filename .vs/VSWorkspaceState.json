@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\js",
+    "\\mail",
+    "\\vendor",
+    "\\vendor\\bootstrap\\css"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\vendor",
   "PreviewInSolutionExplorer": false
 }
